@@ -1,0 +1,6 @@
+github.com/jordan-wright/email v4.0.1-0.20200824153738-3f5bafa1cd84+incompatible h1:d60x4RsAHk/UX/0OT8Gc6D7scVvhBbEANpTAWrDhA/I=
+github.com/jordan-wright/email v4.0.1-0.20200824153738-3f5bafa1cd84+incompatible/go.mod h1:1c7szIrayyPPB/987hsnvNzLushdWf4o/79s3P08L8A=
+github.com/sendgrid/rest v2.6.1+incompatible h1:8DyG9t24pTGYb9D7PsyCHlLsqAm4rUbSel0GQtNpN3Y=
+github.com/sendgrid/rest v2.6.1+incompatible/go.mod h1:kXX7q3jZtJXK5c5qK83bSGMdV6tsOE70KbHoqJls4lE=
+github.com/sendgrid/sendgrid-go v3.6.2+incompatible h1:Z2sBk0sSh4qCKsHShVwCm6v5wTMIDSI1L3gxgCfrM4Q=
+github.com/sendgrid/sendgrid-go v3.6.2+incompatible/go.mod h1:QRQt+LX/NmgVEvmdRw0VT/QgUn499+iza2FnDca9fg8=
